@@ -1,0 +1,3 @@
+CityID,DateHour,Temperature,Humidity,WindPower,AQI,GeneralWeather,Rainfall
+Beijing,20210225113540,5,None,3,60,晴,None
+Beijing,20210225133639,9,None,3,65,晴,None

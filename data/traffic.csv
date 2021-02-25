@@ -1,0 +1,4 @@
+UserID,From,To,QueryTime,Transportation,CommutingTime,TrafficJam
+1,None,None,20210225113540,CAR,42min,2
+1,None,None,20210225192522,CAR,33min,1
+2,None,None,20210225192522,CAR,33min,3
